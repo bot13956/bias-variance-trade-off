@@ -22,7 +22,7 @@ Y<-sin(X)+rnorm(100,0,0.5)
 # define degree of polynomial
 n<-9
 
-# data frame contain X and Y 
+# data frame containing X and Y 
 df<-data.frame(X=X,Y=Y)
 
 # generate polynomial fits of the data set for different degrees
