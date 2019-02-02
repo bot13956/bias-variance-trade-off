@@ -6,4 +6,6 @@ This example illustrates the bias-variance trade-off effect.
 
 bias_variance_trade_off.R: the R code
 
-Output from the R code can be found here: https://www.quora.com/What-is-the-best-way-to-explain-the-bias-variance-trade-off-in-layman%E2%80%99s-terms/answer/Benjamin-Obi-Tayo
+output.pdf: output from the code.
+
+Reference: https://www.quora.com/What-is-the-best-way-to-explain-the-bias-variance-trade-off-in-layman%E2%80%99s-terms/answer/Benjamin-Obi-Tayo
